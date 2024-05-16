@@ -1,0 +1,194 @@
+body{
+    margin:0;
+    overflow-x: hidden;
+}
+.box{
+    height: 100vh;
+    margin: 0;
+    display: flex;
+}
+.hero{
+    background-color: white;
+    display: flex;
+    z-index: 1;
+    margin: 0;
+}
+.me
+{
+    height:100vh;
+    width: 100vw;
+    margin:0;
+}
+.center
+{
+    align-items: center;
+    justify-content: center;
+}
+.casper
+{
+    position: absolute;
+}
+h1{
+    font-size: 20vh;
+    color:black;
+}
+.left0{
+    left: 2vw;
+    margin: 0;
+}
+.left1{
+left: 46vw;
+}
+.left2{
+    left: 62vw;
+}
+.left3{
+    left: 77vw;
+}
+.left4{
+  left: 92vw;
+}
+.textbox
+{
+    display: flex;
+    width: 100%;
+    top:7px;
+    left:7px;
+    margin: 0;
+    z-index: 10;
+}
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .poppins-regular1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .poppins-regular2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 200;
+  }
+  .name{
+    font-size: 30vh;
+    left: 52vw;
+    bottom: 14vh;
+    right: 6vw;
+    
+  }
+  .name1{
+    height: 100vh;
+    width: 100vw;
+    margin-top: 7vh;
+    z-index: 0;
+  }
+  .link{
+    text-decoration: none;
+    color:#0080ff;
+    font-size: 2.3vh;
+}
+.pic1{
+    height:100vh;
+    width:13vw;
+}
+.pic{
+    height:100vh;
+    width:13vw;
+}
+.pic3{
+    height:8vh;
+    width: 13.05vw;
+}
+.aboutme{
+    margin:0 0 0 0;
+    display: flex;
+}
+.korobka{
+    height:100vh;
+    width:13vw;
+    z-index: 1;
+}
+.korobka1{
+    height:8vh;
+    width:13vw;
+    z-index: 1;
+    width: 13.05vw;
+}
+.blue{
+    color:#7eb5ff;
+    z-index: -1;
+    height: 11vh;
+    top:90vh;
+}
+.end{
+    overflow-y: hidden;
+}
+.aboutme{
+    justify-content: flex-end;
+}
+.text{
+    display:flex;
+    align-items: flex-start;
+}
+.imtired{
+    align-items: flex-start;
+    margin-left: 10vw;
+    
+}
+.womp{
+    margin-top:10vh;
+    margin-bottom: 3vh;
+    margin-left: 12vw;
+    margin-right: 28vw;
+    font-size: 200;
+}
+.womp1{
+    margin-top:0vh;
+    margin-bottom: 7vh;
+    margin-left: 13vw;
+    margin-right: 29vw;
+}
+.womp2{
+    margin-top:10.5vh;
+    margin-bottom: 1vh;
+    margin-left: 27.5vw;
+    margin-right: 10vw;
+}
+.womp3{
+    margin-top:10.5vh;
+    margin-bottom: 1vh;
+    margin-left: 22vw;
+    margin-right: 18vw;
+}
+.womp4{
+    margin-top:10.5vh;
+    margin-bottom: 1vh;
+    margin-left: 11vw;
+    margin-right: 23vw;
+}
+.flex{
+    display: flex;
+}
+.par{
+    color:#0080ff;
+}
+.skis0{
+    margin-right: 6vw;
+    margin-left: 13vw;
+}
+.skis{
+    margin-bottom: 3vh;
+    margin-right: 6vw;
+    margin-left: 16vw;
+    flex-direction: column;
+}
+.skis1{
+    margin-right: 33vw;
+    margin-left: 6vw;
+    flex-direction: column;
+    margin-bottom: 15vh;
+}
